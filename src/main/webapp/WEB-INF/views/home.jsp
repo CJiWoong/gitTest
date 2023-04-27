@@ -10,6 +10,7 @@
 	</head>
 	<body>
 		${msg}
+		<h3>깃 시작하기 !</h3>
 	</body>
 	<script>
 	</script>
